@@ -25,7 +25,7 @@ namespace ConsoleApp4
                 p1 += numparts[i];
                 p2 += numparts[i+3];
             }
-            WriteLine(p1+"  "+p2);
+            // WriteLine(p1+"  "+p2);
             if (p1 == p2) { 
                 WriteLine("Билет счастливый!"); 
             }
